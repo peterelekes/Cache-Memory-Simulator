@@ -1,4 +1,4 @@
-# Cache-Memory-Simulator
+# Cache Memory Simulator
 An implementation of different cache memory algorithms to visualize and study their functionality.
 
 ## Implemented algorithms
