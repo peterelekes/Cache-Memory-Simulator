@@ -8,11 +8,11 @@ An implementation of different cache memory algorithms to visualize and study th
 - Direct-Mapped
 - K-Way Associative
 
-### Write policies implemented
+### Write policies
 - Write-Through
 - Write-Back
 
-### Replacement policies implemented
+### Replacement policies
 - First in first out (FIFO)
 - Last in first out (LIFO)
 - Least recently used (LRU)
