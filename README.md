@@ -1,6 +1,6 @@
 # Cache Memory Simulator
 An implementation of different cache memory algorithms to visualize and study their functionality.
-![image](https://user-images.githubusercontent.com/73333237/224626877-7863af2c-3b04-4bb7-ae30-db7f47859a89.png)
+![image](https://user-images.githubusercontent.com/73333237/225917032-0c43beef-8c98-4d93-8503-9ca4b497f975.png)
 
 ## Implemented algorithms
 
